@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Felipe
 
-<!--
-**felipebunde/felipebunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor backend com foco em Python, APIs REST e integração de sistemas.
 
-Here are some ideas to get you started:
+Comecei na área de suporte técnico, o que me deu uma visão muito prática de problemas reais. A partir disso, evoluí para o desenvolvimento, criando ferramentas internas e automações que ajudam no dia a dia de empresas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoje trabalho com Python (Flask), Node.js e bancos de dados, desenvolvendo APIs, integrações e soluções voltadas à eficiência e organização de processos.
+
+## 🚀 O que eu faço
+- Desenvolvimento de APIs REST  
+- Automação de tarefas e processos  
+- Integração entre sistemas  
+- Organização de fluxos de trabalho  
+
+## 🛠️ Tecnologias
+Python (Flask) • Node.js • JavaScript • SQL / NoSQL • Git  
+
+## 📚 Atualmente estudando
+AWS e arquitetura serverless
+
+---
+
+Gosto de construir soluções simples, práticas e que realmente resolvem problemas do dia a dia.
+
+📫 LinkedIn: https://linkedin.com/in/felipebunde
