@@ -4,17 +4,13 @@
 
 💻 Backend Developer | Python • APIs • Automação | Criador do EddieTools usado em produção 🚀
 
-Comecei na área de suporte técnico, o que me deu uma visão prática de problemas reais.
-Hoje desenvolvo soluções que automatizam processos, organizam fluxos e melhoram a eficiência no dia a dia.
+De suporte técnico a Backend Developer, crio soluções que automatizam processos, integram sistemas e melhoram a eficiência operacional no dia a dia.
 
 ---
 
-## 🚀 O que eu faço
-
-* 🔌 Desenvolvimento de APIs REST
-* ⚙️ Automação de tarefas e processos
-* 🔗 Integração entre sistemas
-* 🧩 Organização e melhoria de fluxos
+##🚀 O que faço:
+- Desenvolvimento de APIs REST e automação de processos  
+- Integração de sistemas e otimização de fluxos 
 
 ---
 
@@ -24,7 +20,7 @@ Hoje desenvolvo soluções que automatizam processos, organizam fluxos e melhora
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs,js,ts,sqlite,git" height="40"/>
 </div>
 
-**Principais tecnologias:** Python, Flask, Node.js, JavaScript, TypeScript, SQLite, Git
+🛠 Tecnologias: Python | Flask | Node.js | JavaScript | TypeScript | SQLite | Git
 
 ---
 
@@ -42,7 +38,7 @@ Hoje desenvolvo soluções que automatizam processos, organizam fluxos e melhora
 
 ## 📚 Atualmente estudando
 
-☁️ AWS e arquitetura serverless
+☁️ AWS e arquitetura serverless. Sempre buscando aprender novas tecnologias e boas práticas de backend.
 
 ---
 
