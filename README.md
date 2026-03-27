@@ -8,7 +8,7 @@ De suporte técnico a Backend Developer, crio soluções que automatizam process
 
 ---
 
-##🚀 O que faço:
+## 🚀 O que faço:
 - Desenvolvimento de APIs REST e automação de processos  
 - Integração de sistemas e otimização de fluxos 
 
