@@ -2,9 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipebunde)
 
-💻 Backend Developer | Python • APIs • Automação
-🚀 Criador do EddieTools (sistema usado em produção)
-🔧 Construindo soluções reais com foco em eficiência
+💻 Backend Developer | Python • APIs • Automação | Criador do EddieTools usado em produção 🚀
 
 Comecei na área de suporte técnico, o que me deu uma visão prática de problemas reais.
 Hoje desenvolvo soluções que automatizam processos, organizam fluxos e melhoram a eficiência no dia a dia.
